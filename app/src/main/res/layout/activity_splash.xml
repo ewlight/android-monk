@@ -49,7 +49,7 @@
         android:radius="5dp"
         android:color="@color/white"
         app:dd_numDots="6"
-        app:dd_scaleMultiplier="1.8"
+        app:dd_scaleMultiplier="1.5"
         app:dd_animationDuration="500"
         app:dd_horizontalSpacing="10dp" />
 </RelativeLayout>
